@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editMyNim" type="id" />
+    <item name="textLblNim" type="id" />
+    <item name="textMyName" type="id" />
+</resources>
